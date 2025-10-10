@@ -1,5 +1,10 @@
 const onlyOne = () => {
   return 'I stand alone.';
 };
-
-module.exports = onlyOne;
+const anotherFunction = () => {
+  return "No, you don't.";
+};
+module.exports = {
+  onlyOne,
+  anotherFunction
+};
