@@ -1,5 +1,5 @@
 const prompt = require('prompt-sync')();
-const madlib = require('./madlib');
+const madlib = require('./madlib.js');
 
 // TODO: Replace the hardcoded values with prompt calls
 const main = () => {
