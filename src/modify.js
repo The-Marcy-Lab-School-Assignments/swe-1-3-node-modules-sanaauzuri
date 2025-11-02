@@ -4,4 +4,3 @@ const onlyOne = () => {
 const anotherFunction = () => {
  return "No, you don't.";
 };
-
