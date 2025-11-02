@@ -14,4 +14,4 @@ const madlib = (profession, name, verb, pet, storyContinues) => {
   console.log('The end.');
 };
 
-module.exports = madlib
+module.exports = madlib;
